@@ -18,6 +18,7 @@
   {
     "id": 2,
     "name": "Standard",
+    "popular":true,
     "price": 40,
     "duration": "month",
     "description": "Ideal for regular training and fitness",
